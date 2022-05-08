@@ -23,7 +23,7 @@
         "undeploy": "cf undeploy project1 --delete-services --delete-service-keys"
     },
     "devDependencies": {
-        "@sap/ui5-builder-webide-extension": "1.1.x",
+        "@sap/ui5-builder-webide-extension": "1.1.8",
         "@sap/ux-ui5-tooling": "1",
         "@ui5/cli": "^2.13.0",
         "@ui5/fs": "^2.0.6",
