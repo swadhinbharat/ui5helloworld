@@ -30,7 +30,7 @@
         "@ui5/logger": "^3.0.0",
         "mbt": "^1.2.4",
         "rimraf": "5.0.1",
-        "ui5-task-zipper": "^0.8.0"
+        "ui5-task-zipper": "^3.0.0"
     },
     "ui5": {
         "dependencies": [

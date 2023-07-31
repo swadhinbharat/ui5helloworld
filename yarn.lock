@@ -4937,13 +4937,11 @@ uc.micro@^1.0.1, uc.micro@^1.0.5:
   resolved "https://registry.npmjs.org/uc.micro/-/uc.micro-1.0.6.tgz"
   integrity sha512-8Y75pvTYkLJW2hWQHXxoqRgV7qb9B+9vFEtidML+7koHUFapnVJAZ6cKs+Qjz5Aw3aZWHMC6u0wJE3At+nSGwA==
 
-ui5-task-zipper@^0.8.0:
-  version "0.8.5"
-  resolved "https://registry.npmjs.org/ui5-task-zipper/-/ui5-task-zipper-0.8.5.tgz"
-  integrity sha512-y+QwCZf+6UYmXNwciPBFsqteGlpUq2j94kTdyOcsSXzp3u1TIlqxeoAc2wRI+YiymX/FawUElSkhNmmSzuOdhg==
+ui5-task-zipper@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.npmjs.org/ui5-task-zipper/-/ui5-task-zipper-3.0.0.tgz"
+  integrity sha512-L3WFxIml1tNeYE54OUAf9/USGE+CrI5dSuTG/MKnzpcT8qaHzGmpxiV/EyR45nmHTh83U2aA98KBNg9zb+OYMg==
   dependencies:
-    "@ui5/fs" "^2.0.6"
-    "@ui5/logger" "^2.0.1"
     yazl "^2.5.1"
 
 underscore@~1.13.2:
@@ -5187,7 +5185,7 @@ widest-line@^4.0.1:
 
 word-wrap@^1.2.3:
   version "1.2.5"
-  resolved "https://registry.yarnpkg.com/word-wrap/-/word-wrap-1.2.5.tgz#d2c45c6dd4fbce621a66f136cbe328afd0410b34"
+  resolved "https://registry.npmjs.org/word-wrap/-/word-wrap-1.2.5.tgz"
   integrity sha512-BN22B5eaMMI9UMtjrGd5g5eCYPpCPDUy0FJXbYsaT5zYxjFOckS53SQDE3pWkVoWpHXVb3BrYcEN4Twa55B5cA==
 
 workerpool@^6.4.0:
