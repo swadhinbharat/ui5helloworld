@@ -322,10 +322,10 @@
     "@sap/cf-tools" "2.1.1"
     axios "1.6.0"
 
-"@sap-ux/control-property-editor-sources@npm:@sap-ux/control-property-editor@0.4.5":
-  version "0.4.5"
-  resolved "https://registry.yarnpkg.com/@sap-ux/control-property-editor/-/control-property-editor-0.4.5.tgz#09fe9b23448f586ce0a7a26fa4994ce75463c904"
-  integrity sha512-JaGLWUy79wsD+1Z0szrKunXws75AD5PIjwFDLs7nPTw1bprez/KdHeu0juPqlvMwwgfkAxjTj/Vz/v0rT0oM6w==
+"@sap-ux/control-property-editor-sources@npm:@sap-ux/control-property-editor@0.4.6":
+  version "0.4.6"
+  resolved "https://registry.yarnpkg.com/@sap-ux/control-property-editor/-/control-property-editor-0.4.6.tgz#dee860de03081605b681fb94476ac8eba93d88aa"
+  integrity sha512-55IDIDfjs1K9oKWFeD/LalSXxFO+47+RrByETT3TCKnlHoKNu+stAWooDPGpTJigVfz4muNgiuxaMjzF3qg+4g==
 
 "@sap-ux/logger@0.4.0":
   version "0.4.0"
@@ -337,13 +337,13 @@
     winston "3.7.2"
     winston-transport "4.5.0"
 
-"@sap-ux/preview-middleware@0.11.14":
-  version "0.11.14"
-  resolved "https://registry.yarnpkg.com/@sap-ux/preview-middleware/-/preview-middleware-0.11.14.tgz#a25b08497682b2fd84f8dd42eab814307b3ae104"
-  integrity sha512-wIvoePRMRtOP/zNGKS2mS6CA+IM/HKbbn+9JGjUuDfm8+eKaov5BesgvXLfnTBRV0IZDAjhoMauWft27lxPlsQ==
+"@sap-ux/preview-middleware@0.11.20":
+  version "0.11.20"
+  resolved "https://registry.yarnpkg.com/@sap-ux/preview-middleware/-/preview-middleware-0.11.20.tgz#84ab2f6047bfb5ea2591095c97c1b38e2b3ff37f"
+  integrity sha512-VhLOp7ytlTpc74POwk6/paI7H4cb7/EjX7QCzRbrOlkbIL9wftl0DyPx8AgNkN5Wr/RLWmDr8KzfpBZlxP8scQ==
   dependencies:
     "@sap-ux/adp-tooling" "0.7.2"
-    "@sap-ux/control-property-editor-sources" "npm:@sap-ux/control-property-editor@0.4.5"
+    "@sap-ux/control-property-editor-sources" "npm:@sap-ux/control-property-editor@0.4.6"
     "@sap-ux/logger" "0.4.0"
     ejs "3.1.9"
 
@@ -447,12 +447,12 @@
     js-yaml "3.13.1"
     lodash "4.17.21"
 
-"@sap/ux-ui5-tooling@^1.12.0":
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/@sap/ux-ui5-tooling/-/ux-ui5-tooling-1.12.0.tgz#ff8dd4630d2ec59c0d9ae151804a72211ac09561"
-  integrity sha512-ZqE7D1hCTtjQoGCHR1TmlwpUNzRhs33oo+KSMVwZJkGq08vTDLbwORRe2DJwooBVh69SeX5rlCbIAjx4Nyw7cA==
+"@sap/ux-ui5-tooling@1":
+  version "1.12.1"
+  resolved "https://registry.yarnpkg.com/@sap/ux-ui5-tooling/-/ux-ui5-tooling-1.12.1.tgz#856fcad0beadec2d3cdebde203b6455542e8a58e"
+  integrity sha512-3/AbiHiWJqjWKt2zrZ0W2RzdCetbSexYjSrC0q8x/1pXJPeJgERyA61RRiwE+wNNHHW1Owti7lQcnTWaVWRptQ==
   dependencies:
-    "@sap-ux/preview-middleware" "0.11.14"
+    "@sap-ux/preview-middleware" "0.11.20"
     "@ui5/fs" "3.0.4"
     debug "4.3.4"
     express "4.17.3"
@@ -2379,9 +2379,9 @@ fn.name@1.x.x:
   integrity sha512-GRnmB5gPyJpAhTQdSZTSp9uaPSvl09KoYcMQtsB9rQoOmzs9dH6ffeccH+Z+cv6P68Hu5bC6JjRh4Ah/mHSNRw==
 
 follow-redirects@^1.15.0:
-  version "1.15.3"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.3.tgz#fe2f3ef2690afce7e82ed0b44db08165b207123a"
-  integrity sha512-1VzOtuEM8pC9SFU1E+8KfTjZyMztRsgEfwQl44z8A25uy13jSzTj6dyK2Df52iV0vgHCfBwLhDWevLn95w5v6Q==
+  version "1.15.4"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.15.4.tgz#cdc7d308bf6493126b17ea2191ea0ccf3e535adf"
+  integrity sha512-Cr4D/5wlrb0z9dgERpUL3LrmPKVDsETIJhaCMeDfuFYcqa5bldGV6wBsAN6X/vxlXQtFBMrXdXxdL8CbDTGniw==
 
 fontoxpath@3.21.0:
   version "3.21.0"
