@@ -1144,8 +1144,8 @@ braces@^3.0.2, braces@~3.0.2:
 
 buffer-crc32@~0.2.3:
   version "0.2.13"
-  resolved "https://registry.npmjs.org/buffer-crc32/-/buffer-crc32-0.2.13.tgz"
-  integrity sha1-DTM+PwDqxQqhRUq9MO+MKl2ackI=
+  resolved "https://registry.yarnpkg.com/buffer-crc32/-/buffer-crc32-0.2.13.tgz#0d333e3f00eac50aa1454abd30ef8c2a5d9a7242"
+  integrity sha512-VO9Ht/+p3SN7SKWqcrgEzjGbRSJYTx+Q1pTQC0wrWqHx0vpJraQ6GtHx8tvcg1rlK1byhU5gccxgOgj7B0TDkQ==
 
 buffer-from@^1.0.0:
   version "1.1.2"
@@ -5218,10 +5218,10 @@ uc.micro@^2.0.0, uc.micro@^2.1.0:
   resolved "https://registry.npmjs.org/uc.micro/-/uc.micro-2.1.0.tgz"
   integrity sha512-ARDJmphmdvUk6Glw7y9DQ2bFkKBHwQHLi2lsaH6PPmz/Ka9sFOBsBluozhDltWmnv9u/cF6Rt87znRTPV+yp/A==
 
-ui5-task-zipper@^3.0.0:
-  version "3.1.4"
-  resolved "https://registry.npmjs.org/ui5-task-zipper/-/ui5-task-zipper-3.1.4.tgz"
-  integrity sha512-OUCvVegxqU2ftrKDELu2Jz377Q1LIzhHFlfwcvAN6iHHTENFewFuIa+CA70znYTfAIq4ojB5se9eM1Hy6L/C7w==
+ui5-task-zipper@^3.1.5:
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/ui5-task-zipper/-/ui5-task-zipper-3.1.5.tgz#051b117d8d73f24e5e12e41d4a22929d4514cab9"
+  integrity sha512-34shDEMQvFUYz3Zn3X8WUB38Ckbgaba3/0TbFFhZ9wX5+IenLdMIt6zkhA77qaqcqEF26oEQkcnmtlxK9POtTQ==
   dependencies:
     yazl "^2.5.1"
 
@@ -5671,7 +5671,7 @@ yargs@^17.7.2:
 
 yazl@^2.5.1:
   version "2.5.1"
-  resolved "https://registry.npmjs.org/yazl/-/yazl-2.5.1.tgz"
+  resolved "https://registry.yarnpkg.com/yazl/-/yazl-2.5.1.tgz#a3d65d3dd659a5b0937850e8609f22fffa2b5c35"
   integrity sha512-phENi2PLiHnHb6QBVot+dJnaAZ0xosj7p3fWl+znIjBDlnMI2PsZCJZ306BPTFOaHf5qdDEI8x5qFrSOBN5vrw==
   dependencies:
     buffer-crc32 "~0.2.3"
