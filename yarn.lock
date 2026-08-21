@@ -344,10 +344,10 @@
     js-yaml "3.13.1"
     lodash "4.17.21"
 
-"@sap/ux-ui5-tooling@1":
-  version "1.31.0"
-  resolved "https://registry.npmjs.org/@sap/ux-ui5-tooling/-/ux-ui5-tooling-1.31.0.tgz"
-  integrity sha512-xBUfhh++8VirDM5o7AY20FOJR1nku487o6a7LdvrmlH+HTI8oPbMXXaDa64KhZTjGyOI8wKFhZ3tApSdeFhMHw==
+"@sap/ux-ui5-tooling@^1.31.1":
+  version "1.31.1"
+  resolved "https://registry.yarnpkg.com/@sap/ux-ui5-tooling/-/ux-ui5-tooling-1.31.1.tgz#0045571add38a378616ed8b2bc04f91b5166755f"
+  integrity sha512-S1lgvFt5FltdrluNaU9uGvCPENH6iPkseKWCCudHis4C6NWCscpfgdQwMOAUb4X92OeHtQAoQfUs2oJuqBA7Qw==
 
 "@sigstore/bundle@^3.1.0":
   version "3.1.0"
@@ -779,7 +779,7 @@ balanced-match@^1.0.0:
 
 balanced-match@^4.0.2:
   version "4.0.4"
-  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-4.0.4.tgz#bfb10662feed8196a2c62e7c68e17720c274179a"
+  resolved "https://registry.npmjs.org/balanced-match/-/balanced-match-4.0.4.tgz"
   integrity sha512-BLrgEcRTwX2o6gGxGOCNyMvGSp35YofuYzw9h1IMTRmKqttAZZVU67bdb9Pr2vUHA8+j3i2tJfjO6C6+4myGTA==
 
 binary@^0.3.0:
@@ -871,7 +871,7 @@ brace-expansion@^5.0.2:
 
 brace-expansion@^5.0.8:
   version "5.0.9"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-5.0.9.tgz#7c72438809b5fa5babf54199a1f1c281a6984fcf"
+  resolved "https://registry.npmjs.org/brace-expansion/-/brace-expansion-5.0.9.tgz"
   integrity sha512-ScQ4IuvIEF1TMlP7Zt+vjJ//9zlPb2SDcxWxM3bk8s6t6GGdJ7KO1dCcTidOPJKePW30LE/2cT7wCyPho9/Wxg==
   dependencies:
     balanced-match "^4.0.2"
@@ -885,7 +885,7 @@ braces@^3.0.3:
 
 buffer-crc32@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.yarnpkg.com/buffer-crc32/-/buffer-crc32-1.0.0.tgz#a10993b9055081d55304bd9feb4a072de179f405"
+  resolved "https://registry.npmjs.org/buffer-crc32/-/buffer-crc32-1.0.0.tgz"
   integrity sha512-Db1SbgBS/fg/392AblrMJk97KggmvYhr4pB5ZIMTWtaivCPMWLkmb7m21cJvpvgK+J3nsU2CmmixNBZx4vFj/w==
 
 buffer-from@^1.0.0:
@@ -2674,7 +2674,7 @@ minimatch@^10.2.0:
 
 minimatch@^10.2.5:
   version "10.2.6"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-10.2.6.tgz#fd956bbe0b77241e9f15ac5dccb1c638060968ef"
+  resolved "https://registry.npmjs.org/minimatch/-/minimatch-10.2.6.tgz"
   integrity sha512-vpLQEs+VLCr1nU0BXS07maYoFwlDAH0gngQuuttxIwutDFEMHq2blX+8vpgxDdK3J1PwjCJiep77OitTZ4Ll1A==
   dependencies:
     brace-expansion "^5.0.8"
@@ -4012,9 +4012,9 @@ uc.micro@^2.0.0, uc.micro@^2.1.0:
   resolved "https://registry.npmjs.org/uc.micro/-/uc.micro-2.1.0.tgz"
   integrity sha512-ARDJmphmdvUk6Glw7y9DQ2bFkKBHwQHLi2lsaH6PPmz/Ka9sFOBsBluozhDltWmnv9u/cF6Rt87znRTPV+yp/A==
 
-ui5-task-zipper@^3.7.0:
+ui5-task-zipper@^3.0.0:
   version "3.7.0"
-  resolved "https://registry.yarnpkg.com/ui5-task-zipper/-/ui5-task-zipper-3.7.0.tgz#9b567724832715fcb2232a30ebb9cdb21afab327"
+  resolved "https://registry.npmjs.org/ui5-task-zipper/-/ui5-task-zipper-3.7.0.tgz"
   integrity sha512-lfU7+/ZV3ol9UiPHEB/YNqsc5l3sDO55/n+53T8ppkl74xw6tHPISHGqt2hK5s+65+0A+1wDLHQv0a2KUezLtA==
   dependencies:
     minimatch "^10.2.5"
@@ -4363,7 +4363,7 @@ yargs@^17.7.3:
 
 yazl@^3.3.1:
   version "3.3.1"
-  resolved "https://registry.yarnpkg.com/yazl/-/yazl-3.3.1.tgz#a69abad02d80739d3b1a7ffcca8434422477432c"
+  resolved "https://registry.npmjs.org/yazl/-/yazl-3.3.1.tgz"
   integrity sha512-BbETDVWG+VcMUle37k5Fqp//7SDOK2/1+T7X8TD96M3D9G8jK5VLUdQVdVjGi8im7FGkazX7kk5hkU8X4L5Bng==
   dependencies:
     buffer-crc32 "^1.0.0"
